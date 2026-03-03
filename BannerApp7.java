@@ -1,4 +1,4 @@
-public public class BannerApp7 {
+public class BannerApp7 {
 
     static class CharacterPatternMap {
         private char character;
@@ -69,6 +69,6 @@ public public class BannerApp7 {
                 "         "
         });
 
-        return maps; {
-    
+        return maps;
+    }
 }
